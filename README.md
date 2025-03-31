@@ -18,7 +18,7 @@ EXAP/
 ```
 
 ## License
- This project is licensed under [CC BY-SA 4.0](LICENSE).
+ This project is licensed under [CC BY-SA 4.0](LICENSE.md).
  
  ## Contact
  For questions, suggestions, or dicussions, feel free to open an issue or reach out to the maintainers.
